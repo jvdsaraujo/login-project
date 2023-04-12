@@ -36,12 +36,12 @@
     #imagem {
         float: left;
         height: 100%;
-        width: 65%;
+        width: 70%;
     }
 
     #form {
         float: right;
-        width: 35%;
+        width: 30%;
     }
 
 }
