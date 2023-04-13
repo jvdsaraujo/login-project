@@ -7,8 +7,12 @@
     }
 
     #login {
+        position: absolute;
         height: 270px;
         width: 80vw;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
     #imagem {
@@ -31,7 +35,7 @@
     }
 
     #login {
-        height: 350px;
+        height: 400px;
         width: 990px;
     }
 
