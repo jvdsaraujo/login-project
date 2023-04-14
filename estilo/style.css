@@ -92,6 +92,7 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color:#F558EF;
+    color: white;
 }
 
 .botao {
@@ -110,6 +111,7 @@ input[type=submit]:hover {
 
 .botao:hover {
     background-color: #9245c5;
+    color: white;
 }
 
 .botao i {
