@@ -87,7 +87,7 @@ main {
 }
 
 .campo > input {
-    font-size: 0.8em;
+    font-size: 1em;
     height: 100%;
     width: calc(100% - 50px);
     border-radius: 6px;
